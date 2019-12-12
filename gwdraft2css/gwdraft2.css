@@ -1,0 +1,82 @@
+html, body{
+    position: relative;
+    height: 100%;
+    background: black;
+    margin: 0;
+}
+
+.swiper-button-prev{
+    left: 3em;
+    outline: none;
+}
+
+.swiper-button-next{
+    right: 3em;
+    outline: none;
+}
+
+.swiper-container{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.swiper-slide{
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 8em 3em;
+    color: white;
+    background-size: cover !important;
+}
+
+.swiper-slide h1{
+    font-size: 3em;
+    line-height: 1em;
+}
+
+.swiper-slide p{
+    font-size: 1.2em;
+    margin-top: 7em;
+    line-height: 1.5em;
+}
+
+.slide1{
+    background: url('../images/1.jpg');
+}
+
+.slide2{
+    background: url('../images/2.jpg');
+}
+
+.slide3{
+    background: url('../images/3.jpg');
+}
+
+.slide4{
+    background: url('../images/4.jpg');
+}
+
+.slide5{
+    background: url('../images/5.jpg');
+}
+
+.slide6{
+    background: url('../images/6.jpg');
+}
+
+.slide7{
+    background: url('../images/7.jpg');
+}
+
+.slide8{
+    background: url('../images/8.jpg');
+}
+
+.slide9{
+    background: url('../images/9.jpg');
+}
+
+.slide10{
+    background: url('../images/10.jpg');
+}
+
